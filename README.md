@@ -1,9 +1,10 @@
 # hello-world
 
 第一次使用git寫東西。
-也參考了一下別人的寫法，例如 
-This is [an example](http://example.com/ "Title") inline link.
-[This link](http://example.net/) has no title attribute. 的readme檔案。
+也參考了一下別人的寫法，例如 [LAYUI](https://github.com/sentsin/layui/edit/master/README.md "SENTSIN/LAYUI") 的readme檔案。
+感覺寫的真的好漂亮。
+
+慢慢的也才知道github的編輯器語法，是使用[OTHREE/MARKDOWN](https://github.com/othree/markdown-syntax-zhtw "MARKDOWN中文版")
 
 這樣的寫法還不錯
 
